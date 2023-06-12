@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:8-jre8 
+From tomcat:10.0.14-jdk11-openjdk 
 
 # Maintainer 
 MAINTAINER "stevemaounde@gmail.com" 
